@@ -1,0 +1,2 @@
+name,is_morning,temperature,output 0,output 1,flag,username,timestamp
+test,false,69,Good evening test. It is 69 degrees today,20.56,,,2024-04-14 22:39:28.987846
